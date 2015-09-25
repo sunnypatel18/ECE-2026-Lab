@@ -1,0 +1,1 @@
+A = [key2note(2*exp(2*j),49 - 48  , 1, 22050)+ key2note(2*exp(2*j),49 - 36  , 1, 22050)+ key2note(2*exp(2*j),49 - 24  , 1, 22050)+ key2note(2*exp(2*j),49 - 12  , 1, 22050)+ key2note(2*exp(2*j),49  , 1, 22050) + key2note(2*exp(2*j),49 + 12  , 1, 22050)+ key2note(2*exp(2*j),49 + 24 , 1, 22050)+ key2note(2*exp(2*j),49 + 36 , 1, 22050)+ key2note(2*exp(2*j),49 + 48 , 1, 22050)];

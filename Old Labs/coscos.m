@@ -1,0 +1,1 @@
+function [xx,tt] = coscos( f1, f2, fs, dur )% COSCOS   multiply two sinusoids%dbstop if errort1 = 0:(1/fs):dur;t2 = 0:(1/f2):dur;cos1 = cos(2*pi*f1*t1);cos2 = cos(2*pi*f2*t2);xx = cos1 .* cos2;tt = t1;end%[xn,tn] = coscos(2,3,20,1)% fs% f2% t1% t2% [r c]=size(t1)% [r c]=size(t2)% f2 = fs% dbquit
